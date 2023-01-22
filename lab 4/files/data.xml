@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product><id>1</id><name>Kaktus Plants</name><price>85000</price><description>Small cactus plants, already set in pot</description></product>
+    <product><id>2</id><name>Landak Plants</name><price>105000</price><description>Rare landak plant in small pot</description></product>
+    <product><id>3</id><name>Kecubung Plants</name><price>85000</price><description>A tiny piece of art and supremacy</description></product>
+</products>
